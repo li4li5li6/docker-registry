@@ -1,4 +1,4 @@
-Docker-Registry
+Docker-Registry test update
 ===============
 
 [![Build Status](https://travis-ci.org/dotcloud/docker-registry.png)](https://travis-ci.org/dotcloud/docker-registry)
